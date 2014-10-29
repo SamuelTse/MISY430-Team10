@@ -1,7 +1,5 @@
 MISY430-Team10
-
 ==============
-
 Brian McAloon
 Tom Giacomucci
 Colton Lubaszka
